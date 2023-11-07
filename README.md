@@ -8,35 +8,28 @@
 Building this app with intention of learning flutter better .
 
 
-
-
-![seen]()
-
-
 ## 📱 Screenshots
-|                                                      Login Page                                                      |                                                   Login Out                                                   |
+
+|                                                      Login Page                                                        |                                                   Login Out                                                   |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/60d050a7-12a0-4489-8bbf-f6c692080fa0)         | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/a8b4ebd2-efdd-48fe-b68b-2003cf595ced) |
 
-|                                          Chatting , Seen , Last Online                                         |                                                                                                                  |
+|                                          Chatting , Seen , Last Online                                         |                                              Profile Pic Update                                                  |
 |:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
 | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/3c38b30e-39db-4845-9d4d-046ef7f9aa31) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/eb463c63-abd1-4140-a4ee-b03fc45334e0) |
 
 
 |                                                    Messages and Feeds                                                                                             In person chat                                                     |
 |:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/7a673a61-ab26-4bbf-a788-b69e2685bd23) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_InChatScreen.png?raw=true) |
+| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/7a673a61-ab26-4bbf-a788-b69e2685bd23) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/c092f6e1-3feb-4d4b-a6b6-c5a5bead5837) |
 
-|                                              Tinder Right Swipe                                               |                                               Tinder Left Swipe                                               |
-|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_nope.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_like.png?raw=true) |
 
- Matchings     |
+
+ DataBase     |
 :-------------------------:|
-![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_main.png)
+![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/a7c6fea3-21a7-4b89-872a-8a3791822df1)
 
 
-![updatee]()
 
 Mozilla
 
