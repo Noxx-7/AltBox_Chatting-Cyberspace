@@ -10,35 +10,11 @@ Building this app with intention of learning flutter and FireBase better.
 
 
 
-
-
-## 📱 Screenshots
-|                                                     Splash Screen                                                      |                                                   Login Page                                                   |
-|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/7966378f-bb04-4220-8ae6-781c9f60bf60)           | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_login.png?raw=true) |
-
-|                                          Phone number verification                                           |                                                  Profile Screen                                                  |
-|:------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_otp.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_profile.png?raw=true) |
-
-
-|                                                    Messages and Feeds                                                     |                                                    In person chat                                                     |
-|:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_messagesandfeeds.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_InChatScreen.png?raw=true) |
-
-|                                              Tinder Right Swipe                                               |                                               Tinder Left Swipe                                               |
-|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_nope.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_like.png?raw=true) |
-
- Matchings     |
-:-------------------------:|
-![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_main.png)
-
-
 ## 📚 Technical Details
 ```
 Built entirely on Dart without use of native language . 
-Flutter SDK 
+Flutter SDK
+FireBase
 ```
 ## ⚛ Future Releases
 ```
@@ -47,11 +23,9 @@ Use of Download and Delete approcah at Database .
 More functionality is welcomed .
 ```
 
-## ⚒ Pull Request 
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
 ## 🙋 Created and Maintained by. 
-[Abhishek Kumar](https://github.com/iamabhishek229313)
+[Rahul Sharma](https://github.com/Noxx-7)
 
 ## © License 
 ```
@@ -77,16 +51,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## Getting Started with Flutter Checkout below links :
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
