@@ -31,7 +31,7 @@ More functionality is welcomed .
 ```
 MIT License
 
-Copyright (c) 2018 Abhishek Kumar
+Copyright (c) 2018 Rahul Sharma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
