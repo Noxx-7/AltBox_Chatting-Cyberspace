@@ -3,12 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# 💗  AltBox
+# 🤖  AltBox
 
-Building this app with intention of learning flutter better .
+Building this app with intention of learning flutter and firebase better .
 
 
-## 📱 Screenshots
+## 📱 Have a Look -->
+ 
 
 |                                                      Login Page                                                        |                                                   Login Out                                                    |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
