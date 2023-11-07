@@ -19,9 +19,9 @@ Building this app with intention of learning flutter better .
 | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/3c38b30e-39db-4845-9d4d-046ef7f9aa31) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/eb463c63-abd1-4140-a4ee-b03fc45334e0) |
 
 
-|                                                    Messages and Feeds                                          |                                                  In person chat                                                |
+|                                                    Messages                                                    |                                                 Message Edit/Copy/Check Status of Message                      |
 |:--------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/7a673a61-ab26-4bbf-a788-b69e2685bd23) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/c092f6e1-3feb-4d4b-a6b6-c5a5bead5837) |
+| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/53178a08-f923-43ac-b384-b1e2127bcb3f) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/c092f6e1-3feb-4d4b-a6b6-c5a5bead5837) |
 
 
 
