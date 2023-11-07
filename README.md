@@ -1,17 +1,21 @@
-## Tinder Clone ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Abhishe00178650) ![GitHub stars](https://img.shields.io/github/stars/iamabhishek229313/tinder_clone?style=social)![GitHub forks](https://img.shields.io/github/forks/iamabhishek229313/tinder_clone?style=social) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/iamabhishek229313/tinder_clone) ![GitHub last commit](https://img.shields.io/github/last-commit/iamabhishek229313/tinder_clone)  ![GitHub issues](https://img.shields.io/github/issues-raw/iamabhishek229313/tinder_clone) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/iamabhishek229313/tinder_clone)
+## Tinder Clone ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/rahuldcrm) ![GitHub stars](https://img.shields.io/github/stars/Noxx-7/AltBox_Chatting-Cyberspace?style=social)![GitHub forks](https://img.shields.io/github/forks/Noxx-7/AltBox_Chatting-Cyberspace?style=social) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Noxx-7/AltBox_Chatting-Cyberspace) ![GitHub last commit](https://img.shields.io/github/last-commit/Noxx-7/AltBox_Chatting-Cyberspace)  ![GitHub issues](https://img.shields.io/github/issues-raw/Noxx-7/AltBox_Chatting-Cyberspace) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Mozilla
 
-# 💗 Tinder_Clone
+# 🤖 AltBox_Chatting-Cyberspace
 
-Building this app with intention of learning flutter better .
+Building this app with intention of learning flutter and FireBase better.
+
+
+
+
 
 ## 📱 Screenshots
 |                                                     Splash Screen                                                      |                                                   Login Page                                                   |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_splash_screen.png?raw=true) | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_login.png?raw=true) |
+| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/7966378f-bb04-4220-8ae6-781c9f60bf60)           | ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_login.png?raw=true) |
 
 |                                          Phone number verification                                           |                                                  Profile Screen                                                  |
 |:------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
