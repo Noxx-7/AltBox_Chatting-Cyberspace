@@ -7,7 +7,6 @@
 
 Building this app with intention of learning flutter better .
 
-![login](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/60d050a7-12a0-4489-8bbf-f6c692080fa0)
 
 
 
