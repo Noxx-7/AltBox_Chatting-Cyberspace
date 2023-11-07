@@ -18,9 +18,9 @@ Building this app with intention of learning flutter better .
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/60d050a7-12a0-4489-8bbf-f6c692080fa0)         | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/a8b4ebd2-efdd-48fe-b68b-2003cf595ced) |
 
-|                                          Chatting                                                              |                                                  Seen , Last Online                                                  |
+|                                          Chatting , Seen , Last Online                                         |                                                                                                                  |
 |:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/3c38b30e-39db-4845-9d4d-046ef7f9aa31) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/66c0b297-e0c4-460b-9388-5f1d013c2296) |
+| ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/3c38b30e-39db-4845-9d4d-046ef7f9aa31) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/eb463c63-abd1-4140-a4ee-b03fc45334e0) |
 
 
 |                                                    Messages and Feeds                                                                                             In person chat                                                     |
@@ -36,7 +36,7 @@ Building this app with intention of learning flutter better .
 ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_main.png)
 
 
-![updatee](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/eb463c63-abd1-4140-a4ee-b03fc45334e0)
+![updatee]()
 
 Mozilla
 
