@@ -1,4 +1,4 @@
-![message](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/b2b0d137-b2ae-47b2-9620-0c7382f4455a)## AltBox_Chatting-Cyberspace ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/rahuldcrm) ![GitHub stars](https://img.shields.io/github/stars/Noxx-7/AltBox_Chatting-Cyberspace?style=social)![GitHub forks](https://img.shields.io/github/forks/Noxx-7/AltBox_Chatting-Cyberspace?style=social) 
+## AltBox_Chatting-Cyberspace ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/rahuldcrm) ![GitHub stars](https://img.shields.io/github/stars/Noxx-7/AltBox_Chatting-Cyberspace?style=social)![GitHub forks](https://img.shields.io/github/forks/Noxx-7/AltBox_Chatting-Cyberspace?style=social) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Noxx-7/AltBox_Chatting-Cyberspace) ![GitHub last commit](https://img.shields.io/github/last-commit/Noxx-7/AltBox_Chatting-Cyberspace)  ![GitHub issues](https://img.shields.io/github/issues-raw/Noxx-7/AltBox_Chatting-Cyberspace) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,17 +10,17 @@ Building this app with intention of learning flutter better .
 
 ## 📱 Screenshots
 
-|                                                      Login Page                                                        |                                                   Login Out                                                   |
+|                                                      Login Page                                                        |                                                   Login Out                                                    |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/60d050a7-12a0-4489-8bbf-f6c692080fa0)         | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/a8b4ebd2-efdd-48fe-b68b-2003cf595ced) |
 
-|                                          Chatting , Seen , Last Online                                         |                                              Profile Pic Update                                                  |
-|:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
+|                                          Chatting , Seen , Last Online                                         |                                              Profile Pic Update                                                |
+|:--------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/3c38b30e-39db-4845-9d4d-046ef7f9aa31) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/eb463c63-abd1-4140-a4ee-b03fc45334e0) |
 
 
-|                                                    Messages and Feeds                                                                                             In person chat                                                     |
-|:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
+|                                                    Messages and Feeds                                          |                                                  In person chat                                                |
+|:--------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/7a673a61-ab26-4bbf-a788-b69e2685bd23) | ![](https://github.com/Noxx-7/AltBox_Chatting-Cyberspace/assets/83027100/c092f6e1-3feb-4d4b-a6b6-c5a5bead5837) |
 
 
